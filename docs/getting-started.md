@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+set the config below
+- [ ] hoge
+- [ ] hage
+- [ ] fuga

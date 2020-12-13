@@ -37,5 +37,6 @@ firstPRMergeComment: >
 
 set the config below
 - [ ] hoge
-- [ ] hage
 - [ ] fuga
+- [ ] foo
+- [ ] bar
